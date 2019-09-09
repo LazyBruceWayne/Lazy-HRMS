@@ -2,7 +2,7 @@
 Human Resource Management System.
 
 ## Examples
-![Lazy-HRMS](https://github.com/LazyBruceWayne/Lazy-HRMS/blob/master/1.png)
+![Lazy-HRMS](https://github.com/LazyBruceWayne/Lazy-HRMS/blob/master/15.png)
 <hr>
 
 ![Lazy-HRMS](https://github.com/LazyBruceWayne/Lazy-HRMS/blob/master/2.png)
